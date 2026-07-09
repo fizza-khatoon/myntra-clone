@@ -2,11 +2,11 @@
 
 A front-end clone of the Myntra homepage, built to practice real-world layout techniques using HTML and CSS.
 
-🔗 **Live Demo:** _[add your GitHub Pages / Netlify link here after deploying]_
+🔗 **Live Demo:** [https://fizza-khatoon.github.io/myntra-clone/](https://fizza-khatoon.github.io/myntra-clone/)
 
 ## Preview
 
-_[Add a screenshot here — see "Adding a screenshot" below]_
+![Myntra Clone Screenshot](screenshot.png)
 
 ## Features
 
@@ -29,6 +29,7 @@ _[Add a screenshot here — see "Adding a screenshot" below]_
 myntra-clone/
 ├── index.html
 ├── index.css
+├── screenshot.png
 ├── images/
 │   ├── myntra_logo.webp
 │   ├── banner.jpg
@@ -60,6 +61,6 @@ This is a static front-end clone built for learning purposes and is not affiliat
 
 ## Author
 
-**[Fizza Khatoon]**
+**Fizza Khatoon**
 MCA Student
-[GitHub](ttps://github.com/fizza-khatoon) · [LinkedIn](https://www.linkedin.com/in/fizza-khatoon)
+[GitHub](https://github.com/fizza-khatoon) · [LinkedIn](https://linkedin.com/in/fizza-khatoon)
