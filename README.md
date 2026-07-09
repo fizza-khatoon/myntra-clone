@@ -43,7 +43,7 @@ myntra-clone/
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/<your-username>/myntra-clone.git
+   git clone https://github.com/fizza-khatoon/myntra-clone.git
    ```
 2. Open `index.html` in your browser — no build step or dependencies required.
 
@@ -60,6 +60,6 @@ This is a static front-end clone built for learning purposes and is not affiliat
 
 ## Author
 
-**[Your Name]**
+**[Fizza Khatoon]**
 MCA Student
-[GitHub](https://github.com/<your-username>) · [LinkedIn](https://linkedin.com/in/<your-profile>)
+[GitHub](ttps://github.com/fizza-khatoon) · [LinkedIn](https://www.linkedin.com/in/fizza-khatoon)
