@@ -55,9 +55,7 @@ myntra-clone/
 - Working with external icon fonts
 - Organizing image assets for a content-heavy page
 
-## Notes
 
-This is a static front-end clone built for learning purposes and is not affiliated with or endorsed by Myntra. All product/category images are used for practice only.
 
 ## Author
 
